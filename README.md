@@ -1,12 +1,15 @@
 # 500-Person-Gender-Height-Weight-Body-Mass-Index
 
-This is a fairly straightforward problem and is ideal for people starting off with data science. It is a regression problem.  The dataset has 500 rows and 3 columns (index, height and weight).
+This is a fairly straightforward problem and is ideal for people starting off with data science. It is a regression problem.  The dataset has 500 rows and 4 columns (Gender, index, height and weight).
 
 Problem: Predict the height or weight of a person.
 
-      Gender : Male / Female  
+      Gender : Male / Female
+      
       Height : Number (cm)
+
       Weight : Number (Kg)
+      
       Index :  
             0 - Extremely Weak 
             1 - Weak
